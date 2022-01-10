@@ -105,3 +105,29 @@ E:\HOC TAP\Cong Nghe PM\do an\Source code Quan ly bong da\Presentations\obj\Debu
 F:\HOC TAP\Cong Nghe PM\do an\Source code Quan ly bong da\Presentations\bin\Debug\Presentations.exe.config
 F:\HOC TAP\Cong Nghe PM\do an\Source code Quan ly bong da\Presentations\obj\Debug\Presentations.exe
 F:\HOC TAP\Cong Nghe PM\do an\Source code Quan ly bong da\Presentations\obj\Debug\Presentations.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\Presentations.exe.config
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.exe
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\Data\QuanLyBongDa.mdf
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\Data\QuanLyBongDa_log.ldf
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\Presentations.exe
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\Presentations.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\DALayer.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\Entities.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\Utilities.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\DALayer.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\Entities.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\bin\Debug\Utilities.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.QuanLyKetQua.resources
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.ChiTietDanhSachCauThu.resources
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.ChiTietDanhSachDoiBong.resources
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.GiaoDienChinh.resources
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.QuanLyDoiBong.resources
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.QuanLyTrongTai.resources
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.QuanLyThiDau.resources
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.TraCuu.resources
+C:\Users\Admin\Desktop\QuanLyBongDa\Presentations\obj\Debug\Presentations.csproj.GenerateResource.Cache

@@ -52,3 +52,12 @@ G:\Source code Quan ly bong da\DALayer\bin\Debug\Entities.pdb
 G:\Source code Quan ly bong da\DALayer\obj\Debug\ResolveAssemblyReference.cache
 G:\Source code Quan ly bong da\DALayer\obj\Debug\DALayer.dll
 G:\Source code Quan ly bong da\DALayer\obj\Debug\DALayer.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\DALayer\bin\Debug\DALayer.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\DALayer\bin\Debug\DALayer.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\DALayer\bin\Debug\Entities.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\DALayer\bin\Debug\Utilities.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\DALayer\bin\Debug\Entities.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\DALayer\bin\Debug\Utilities.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\DALayer\obj\Debug\DALayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyBongDa\DALayer\obj\Debug\DALayer.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\DALayer\obj\Debug\DALayer.pdb

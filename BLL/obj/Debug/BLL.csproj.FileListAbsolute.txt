@@ -64,3 +64,14 @@ G:\Source code Quan ly bong da\BLL\bin\Debug\Entities.pdb
 G:\Source code Quan ly bong da\BLL\obj\Debug\ResolveAssemblyReference.cache
 G:\Source code Quan ly bong da\BLL\obj\Debug\BLL.dll
 G:\Source code Quan ly bong da\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\bin\Debug\DALayer.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\bin\Debug\Entities.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\bin\Debug\Utilities.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\bin\Debug\DALayer.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\bin\Debug\Entities.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\bin\Debug\Utilities.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\BLL\obj\Debug\BLL.pdb

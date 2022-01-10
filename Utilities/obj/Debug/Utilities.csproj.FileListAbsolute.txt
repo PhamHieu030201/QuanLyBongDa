@@ -23,3 +23,8 @@ G:\Source code Quan ly bong da\Utilities\bin\Debug\Utilities.pdb
 G:\Source code Quan ly bong da\Utilities\obj\Debug\ResolveAssemblyReference.cache
 G:\Source code Quan ly bong da\Utilities\obj\Debug\Utilities.dll
 G:\Source code Quan ly bong da\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\Utilities\bin\Debug\Utilities.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Admin\Desktop\QuanLyBongDa\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyBongDa\Utilities\obj\Debug\Utilities.dll
+C:\Users\Admin\Desktop\QuanLyBongDa\Utilities\obj\Debug\Utilities.pdb
